@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shantanusharnagat
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning CS 
+- 🌱 I’m currently studying CS 
 - 💞️ I’m looking to collaborate on www.linkedin.com/in/shantanu-sharnagat-045063206
 - 📫 How to reach me shantanusharnagat@gmail.com
 
